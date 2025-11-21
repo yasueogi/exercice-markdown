@@ -9,7 +9,8 @@
 1. Pomme
 2.  Poire 
 3.  Framboise
-4.  Pomme grenade 
+4.  Pomme grenade
+5.  Mange
 
 ### listes des composantes pour un pc
 
